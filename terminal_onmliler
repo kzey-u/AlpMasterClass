@@ -1,0 +1,17 @@
+cd .. -> geriye gitmek icin.
+cd Ekler -> eklere gidiyorsun
+ls -> olan dosyalar 
+mkdir -> yeni klasor olusturmak
+
+
+C -> 
+gcc *.c -> compile etmek icin
+./ -> calistirmak icin
+
+
+Github ->
+git clone <link>
+git status -> status'e bakmak icin
+git add <dosya_adi> -> havalimanina girmek icin.
+git commit -m "mesajj" -> ucaga binmek icin.
+git push -> ucagi ucurmak icin.
